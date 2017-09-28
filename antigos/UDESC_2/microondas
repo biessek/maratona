@@ -1,0 +1,12 @@
+#include<cstdio>
+
+int main() {
+    int n, i, min, seg;
+    scanf("%d\n", &n);
+    for(i=1;i<=n;i++) {
+        scanf("%d:%d\n", &min, &seg);
+
+    }
+
+    return 0;
+}
